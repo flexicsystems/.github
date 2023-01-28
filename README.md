@@ -1,2 +1,1 @@
-# .github
-Host FlexicSystem's public .github repository
+Welcome to Flexic-Systems!
